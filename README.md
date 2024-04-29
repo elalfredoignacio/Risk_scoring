@@ -1,5 +1,6 @@
 # Risk Scoring
  Proyecto de Machine Learning de scoring de riesgo crediticio
+ 
  Se predice:
  - Probability of Default (PD)
  - Exposure at Default (EAD)
